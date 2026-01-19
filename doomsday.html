@@ -25,7 +25,7 @@
         var timerInterval = window.setInterval(updateTimer, 100)
         function updateTimer() {
             let currDate = new Date().getTime();
-            let endDate = new Date(2025, 12, 12, 12, 0, 0, 0).getTime();
+            let endDate = new Date(2026, 7, 31, 0, 0, 0, 0).getTime();
             let time_remaining = Math.floor(((endDate - currDate) / 1000 / 60));
             document.getElementById("timer").innerHTML = Math.max(time_remaining, 0);
         }

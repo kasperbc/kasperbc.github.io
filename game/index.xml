@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Games on Kasper Björkgren</title>
+    <link>https://www.kasperbjorkgren.com/game/</link>
+    <description>Recent content in Games on Kasper Björkgren</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <managingEditor>kasper.bjorkgren@gmail.com (Kasper Björkgren)</managingEditor>
+    <webMaster>kasper.bjorkgren@gmail.com (Kasper Björkgren)</webMaster>
+    <lastBuildDate>Fri, 12 Dec 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://www.kasperbjorkgren.com/game/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Tackle Box: The First Catch (2025)</title>
+      <link>https://www.kasperbjorkgren.com/game/tackle-box/</link>
+      <pubDate>Fri, 12 Dec 2025 00:00:00 +0000</pubDate><author>kasper.bjorkgren@gmail.com (Kasper Björkgren)</author>
+      <guid>https://www.kasperbjorkgren.com/game/tackle-box/</guid>
+      <description>&lt;div style=&#34;opacity: 60%;&#34;&gt;&#xD;&#xA;    Unity Engine, 3D, C#, Git, GitHub, Scriptable Objects, Scrum, Unity Timeline, Unity Behavior Graph&#xD;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#about-the-game&#34;&gt;About the game&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#my-contributions&#34;&gt;My contributions&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gameplay&#34;&gt;Gameplay&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ui&#34;&gt;UI&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#testing&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#workflow&#34;&gt;Workflow&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#audio&#34;&gt;Audio&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#publishing&#34;&gt;Publishing&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#what-i-learned&#34;&gt;What I learned&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;h2 id=&#34;about-the-game&#34;&gt;About the game&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Tackle Box: The First Catch is a fishing-fighting hybrid where you play as an old man and you need to fight every catch with your bare hands.&lt;/p&gt;&#xA;&lt;p&gt;We worked on the game as a team of 7 people from August 2025 to December 2025 as a part of our 3rd-year studies at Jamk University of Applied Sciences. The game was released on Steam on 12.12.2025.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Epistasis (2023)</title>
+      <link>https://www.kasperbjorkgren.com/game/epistasis/</link>
+      <pubDate>Thu, 01 Jun 2023 00:00:00 +0000</pubDate><author>kasper.bjorkgren@gmail.com (Kasper Björkgren)</author>
+      <guid>https://www.kasperbjorkgren.com/game/epistasis/</guid>
+      <description>&lt;div style=&#34;opacity: 60%;&#34;&gt;&#xD;&#xA;    Unity Engine, 3D, C#, Jira, Git, GitHub, Scriptable Objects, Scrum&#xD;&#xA;&lt;/div&gt;&#xA;&lt;br&gt;&#xD;&#xA;&lt;nav id=&#34;TableOfContents&#34;&gt;&#xA;  &lt;ul&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#about-the-game&#34;&gt;About the game&lt;/a&gt;&lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#my-contributions&#34;&gt;My contributions&lt;/a&gt;&#xA;      &lt;ul&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#gameplay&#34;&gt;Gameplay&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#ui&#34;&gt;UI&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#testing&#34;&gt;Testing&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#workflow&#34;&gt;Workflow&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#publishing&#34;&gt;Publishing&lt;/a&gt;&lt;/li&gt;&#xA;        &lt;li&gt;&lt;a href=&#34;#optimization&#34;&gt;Optimization&lt;/a&gt;&lt;/li&gt;&#xA;      &lt;/ul&gt;&#xA;    &lt;/li&gt;&#xA;    &lt;li&gt;&lt;a href=&#34;#what-i-learned&#34;&gt;What I learned&lt;/a&gt;&lt;/li&gt;&#xA;  &lt;/ul&gt;&#xA;&lt;/nav&gt;&#xA;&lt;h2 id=&#34;about-the-game&#34;&gt;About the game&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Epistasis is a horror game where you are tasked with exploring an abandoned space station and figuring out what &lt;em&gt;really&lt;/em&gt; happened there. Be wary however, as it&amp;rsquo;s not as empty as it seems&amp;hellip;&lt;/p&gt;&#xA;&lt;p&gt;We worked on the game as a team of 5 people from January 2023 to May 2023, during our final year at Business College Helsinki.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
